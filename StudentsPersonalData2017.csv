@@ -1,0 +1,21 @@
+ID Number,Students,Age,Gender,Country,Nationality,Semester,Date,long,lat
+12345,Student1,22,Male,Greece,EU,September,20/09/2017,21.824312,39.074207
+12346,Student2,25,Male,Argentina,NONEU,September,20/09/2017,-63.616673,-38.416096
+12347,Student3,21,Male,Spain,EU,September,20/09/2017,-3.74922,40.463669
+12348,Student4,26,Female,Bulgaria,EU,September,20/09/2017,25.48583,42.733883
+12349,Student5,30,Male,Germany,EU,September,20/09/2017,10.451526,51.165691
+12341,Student6,28,Male,Ecuador,NONEU,February,20/02/2018,-78.183403,-1.831239
+12342,Student7,29,Male,Ecuador,NONEU,February,20/02/2018,-78.183403,-1.831239
+12345,Student8,24,Female,Ecuador,NONEU,February,20/02/2018,-78.183403,-1.831239
+12365,Student9,27,Male,Ecuador,NONEU,September,20/09/2017,-78.183403,-1.831239
+12340,Student10,23,Male,Spain,EU,September,20/09/2017,-3.74922,40.463669
+12356,Student11,22,Female,China,NONEU,September,20/09/2017,104.195396,35.86166
+12389,Student12,26,Male,Gana,NONEU,September,20/09/2017,-1.400278,12.057222
+12359,Student13,33,Male,Italy,EU,September,20/09/2017,12.56738,41.871941
+12445,Student14,25,Male,England,EU,September,20/09/2017,-1.17432,52.355518
+12778,Student15,24,Male,France,EU,September,20/09/2017,2.213749,46.227638
+12498,Student16,26,Male,Ecuador,NONEU,September,20/09/2017,-78.183403,-1.831239
+12456,Student17,28,Male,Spain,EU,September,20/09/2017,-3.74922,40.463669
+12458,Student18,25,Male,India,NONEU,September,20/09/2017,78.962883,20.593683
+14489,Student19,39,Male,Spain,EU,September,20/09/2017,-3.74922,40.463669
+16698,Student20,30,Male,Spain,EU,February,20/02/2018,-3.74922,40.463669

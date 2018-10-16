@@ -1,0 +1,21 @@
+Students,Age,Gender,Nationality,Optim,Neteg,Wicom,Sensors,Entrep,Iot-IP,5gplan,Image,Optical ,Arasm,Bodysens,Netauth,BigaData,SDR,LowPow,Business,Service,CREA
+Student1,22,Male,EU,6,8,7,5.5,8.6,6.5,9,,9,,,8,9,5.5,,9,9,9
+Student2,25,Male,NONEU,7,7,7,6.5,8.5,8.6,6.5,6.5,6,,6.5,,6.5,,,6.5,6,6
+Student3,21,Male,EU,5,6,8,7.4,8.7,6.9,8,8,8,,8,9,,8,,8,8,8
+Student4,26,Female,EU,9,9,9,7.3,9,5,7,9,5.6,,9,,7,9,,7,5.6,5.6
+Student5,30,Male,EU,8,7,6,9,10,8,6.5,7,7.3,7,7,7,,7,,6.5,7.3,7.3
+Student6,28,Female,NONEU,6,5,5,5,6.3,7,,6.5,,,6.5,,,6.5,,,,
+Student7,29,Female,NONEU,7,5,6,6,9.2,6,5,9,5.8,5,9,5,5,9,,5,5.8,5.8
+Student8,24,Female,NONEU,6,6,7,8,8,9,6,5.3,9,6,5.3,6,6,5.3,,6,9,9
+Student9,27,Male,NONEU,9,8,8,5.2,7,5,,,7.3,6.3,,6.3,,,,,7.3,7.3
+Student10,23,Male,EU,8,9,6,6.2,6,6.5,8,6,7,,,7,5,,7.5,8,9,9
+Student11,22,Female,NONEU,6,7,9,7.5,9.2,9.7,,,,7.5,,7.5,,,8.3,,,
+Student12,26,Male,NONEU,9,5,7,6.3,9.8,7.3,7.3,,5,8.3,,8.3,7.3,,,7.3,5,5
+Student13,33,Male,EU,8,6,6,9.1,8.5,5.6,6.5,9,6,,9,,6.5,,5.3,6.5,6,6
+Student14,25,Male,EU,5,6,9,8,7.6,5,,,8,5.3,,5.3,,,,,8,8
+Student15,24,Male,EU,7,7,7,7,7.5,5,8,6,7.4,,6,,8,,5.6,8,7.4,7.4
+Student16,26,Male,NONEU,8,7,9,5,8,5.5,7,,5,5.6,,5.6,7,,8,7,5,5
+Student17,28,Male,EU,6,8,8,6,7,5.8,,,6,8,,8,,,,,6,6
+Student18,25,Female,NONEU,9,7,6,7,9,7.6,,7,,,7,,6,7,,5,9,9
+Student19,39,Male,EU,5,5,5,5,9,9,7,,7,,,6,7,,7,,8,9
+Student20,30,Female,EU,5,9,5,5,9,10,10,10,,7,10,7,10,7,,8,9,6
